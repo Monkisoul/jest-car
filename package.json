@@ -1,0 +1,23 @@
+{
+  "name": "carrito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "car.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tozarf/g6-JS-Jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tozarf/g6-JS-Jest/issues"
+  },
+  "homepage": "https://github.com/Tozarf/g6-JS-Jest#readme",
+
+  "dependencies": {}
+
+  
+}
